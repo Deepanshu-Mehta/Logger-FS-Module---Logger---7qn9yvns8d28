@@ -2,4 +2,9 @@
 
 2024-07-24T11:44:36.301Z | WARNING | This is a warning message
 
-2024-07-24T11:44:36.301Z | ERROR | This is an error message
+2024-07-24T11:44:36.301Z | ERROR | This is an error message2024-08-06T13:41:58.849Z | INFO | This is an info message
+2024-08-06T13:41:58.856Z | WARNING | This is a warning message
+2024-08-06T13:41:58.856Z | ERROR | This is an error message
+2024-08-06T13:42:41.007Z | INFO | This is an info message
+2024-08-06T13:42:41.018Z | WARNING | This is a warning message
+2024-08-06T13:42:41.018Z | ERROR | This is an error message
