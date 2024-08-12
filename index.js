@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 function writeLog(message) {
-    fs.appendFile('./logs/app.log', message + '\n', (err) => {
+    fs.appendFileSync('./logs/app.log', message + '\n', (err) => {
         if (err) {
             console.error('Failed to write log:', err);
         }
